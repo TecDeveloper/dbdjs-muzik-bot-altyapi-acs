@@ -9,7 +9,7 @@ Dbd.js müzik bot altyapısı
 # Başlarken
 1. Glitch `Tools` kısmından import kullanın <br />
 veya <br />
-Terminal kısmına ```git clone https://github.com/TecDeveloper/discordjs-bos-altyapi-yuka``` <br />
+Terminal kısmına ```git clone https://github.com/TecDeveloper/dbdjs-muzik-bot-altyapi-acs``` <br />
 2. Kodları kendinize göre düzenleyin <br />
 3. .env kısmına tokeninizi girin <br />
 
