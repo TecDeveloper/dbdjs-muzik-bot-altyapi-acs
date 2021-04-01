@@ -13,3 +13,5 @@ Terminal kısmına ```git clone https://github.com/TecDeveloper/dbdjs-muzik-bot-
 2. Kodları kendinize göre düzenleyin <br />
 3. .env kısmına tokeninizi girin <br />
 
+# Gerekli Modüller
+`npm i dbd.js`
